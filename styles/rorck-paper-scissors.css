@@ -1,0 +1,40 @@
+.rock-image, .paper-image, .scissors-image {
+  width: 50px;
+  
+}
+
+html{
+  color: white;
+  background-color: rgb(25, 25, 25);
+}
+
+body{ 
+  color: white;
+
+}
+
+.header{
+  font-size: 30px;
+  font-weight: bold;
+}
+ 
+div button {
+  background-color: rgb(25, 25, 25);
+  border: 4px white solid;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  
+}
+
+div{
+  display: flex;
+  flex-direction: row;
+  column-gap: 15px;
+}
+
+.view-result {
+  font-size: 25px;
+  font-weight: bold;
+}
+

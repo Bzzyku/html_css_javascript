@@ -1,0 +1,39 @@
+html{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+  font-size: 20px;
+}
+
+.elements .element p{
+  display: inline-block;
+}
+
+
+
+ button{
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.element-name {
+  width: 178px;
+
+}
+
+.element-date {
+  width: 119px;
+}
+
+.add {
+  width: 72px;
+  background-color: green;
+}
+
+input {
+  padding: 7px 2px 7px 2px;
+}
